@@ -1,10 +1,52 @@
 ![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/mainx/data/New3D-O.png)
 
-![](https://komarev.com/ghpvc/?username=pymmdrza&color=blue)
+![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-green/?style=plastic&link=https://mmdrza.com) ![](https://komarev.com/ghpvc/?username=pymmdrza&color=blue) ![](https://img.shields.io/badge/Telegram-Channel-orange/?style=plastic&link=https://t.me/mpython3)
 ---
 
+All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
+
+## Python Source
 
 
+
+#### [Attacker Aio Crypto (All in One) ](https://github.com/Pymmdrza/AttackAIO_Crypto 'Attack and Crack Private Key AIO (ALL in ONE) All Cryptocurency from words') 
+`Attack and Crack Private Key AIO (ALL in ONE) All Cryptocurency from words`
+
+#### [Bitcoin x Power Hunter](https://github.com/Pymmdrza/BitcoinXPowerHunter 'bitcoin private key crack and hack all address type')
+`Bitcoin All Address Type Hunting With High speed checked DataBase`
+
+#### [xBrain Wallet Crack](https://github.com/Pymmdrza/xBrainWallet 'Brain Wallet passphares and private key crack woth python hack')
+`Brain Wallet passphares and private key crack woth python hack`
+
+#### [Ethereum Mnemonic Hack](https://github.com/Pymmdrza/EthereumMnemonicCrack 'Ethereum Mnemonic Hack')
+`Ethereum Address Wallet Generated With Private Key From Mnemonic and check Value (Balance , transaction) Without API`
+
+#### [SoloMiner V2](https://github.com/Pymmdrza/SoloMinerV2 'Mining Bitcoin Script Solo')
+`New Version Solo Miner with High Speed for mining Bitcoin With all System (Bitcoin Mining , BTC Miner)`
+
+#### [Multi Crypto Finder Rich Wallet](https://github.com/Pymmdrza/MultiCryptoFinderRich 'Multi Crypto Finder Rich Wallet')
+`Multi Batch Private Key Genereted and Check from Database`
+
+#### [Rich Wallet Private Key Finder Version 2](https://github.com/Pymmdrza/RichWalletPrivateKeyFinder2 'Private Key Finder Ethereum')
+`Private Key Finder Etherem From Rich Wallet List V2`
+
+#### [Solo Miner Bitcoin](https://github.com/Pymmdrza/SoloMiner)
+
+#### [Bitcoin Wallet Checker HD](https://github.com/Pymmdrza/BTC_HD_Wallet_Checker)
+
+#### [RichWallet Cracker](https://github.com/Pymmdrza/RichWalletPrivateKeyFinder)
+
+#### [Bitcoin RichWallet BurtForce](https://github.com/Pymmdrza/BTCRichWalletPrivateKeyFinder)
+
+#### [RichWallet List](https://github.com/Pymmdrza/Rich-Address-Wallet)
+
+#### [Ethereum BurteForce](https://github.com/Pymmdrza/Ethereum_PrivateKey_Address_Generator)
+
+
+
+
+
+---
 ↪️ Package Hexer [(Download)](https://github.com/Pymmdrza/HEXER/blob/main/mHash/hexer.py)
 
 
