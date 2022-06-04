@@ -30,22 +30,6 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 #### [Rich Wallet Private Key Finder Version 2](https://github.com/Pymmdrza/RichWalletPrivateKeyFinder2 'Private Key Finder Ethereum')
 `Private Key Finder Etherem From Rich Wallet List V2`
 
-#### [Solo Miner Bitcoin](https://github.com/Pymmdrza/SoloMiner)
-
-#### [Bitcoin Wallet Checker HD](https://github.com/Pymmdrza/BTC_HD_Wallet_Checker)
-
-#### [RichWallet Cracker](https://github.com/Pymmdrza/RichWalletPrivateKeyFinder)
-
-#### [Bitcoin RichWallet BurtForce](https://github.com/Pymmdrza/BTCRichWalletPrivateKeyFinder)
-
-#### [RichWallet List](https://github.com/Pymmdrza/Rich-Address-Wallet)
-
-#### [Ethereum BurteForce](https://github.com/Pymmdrza/Ethereum_PrivateKey_Address_Generator)
-
-
-
-
-
 ---
 ↪️ Package Hexer [(Download)](https://github.com/Pymmdrza/HEXER/blob/main/mHash/hexer.py)
 
