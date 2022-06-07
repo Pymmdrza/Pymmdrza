@@ -16,7 +16,7 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 `Bitcoin All Address Type Hunting With High speed checked DataBase`
 
 #### [xBrain Wallet Crack](https://github.com/Pymmdrza/xBrainWallet 'Brain Wallet passphares and private key crack woth python hack')
-`Brain Wallet passphares and private key crack woth python hack`
+`Brain Wallet passphares and private key crack with python hack`
 
 #### [Ethereum Mnemonic Hack](https://github.com/Pymmdrza/EthereumMnemonicCrack 'Ethereum Mnemonic Hack')
 `Ethereum Address Wallet Generated With Private Key From Mnemonic and check Value (Balance , transaction) Without API`
