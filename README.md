@@ -8,6 +8,9 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 ## Python Source
 
 
+### ✨ [Red Crypto MAGIC (Hunt and Crack Private Key From Mnemonic Ethereum And Polkadot) ](https://github.com/Pymmdrza/REDCryptoMAGIC 'Red Crypto MAGIC (Hunt and Crack Private Key From Mnemonic Ethereum And Polkadot') 
+`Crack and Hunting Private Key Ethereum And Polkadot From Mnemonic`
+
 #### ✨ [Atom X Bitcoin (Private Key Hunting and Crack Hack Free and PRo) ](https://github.com/Pymmdrza/AtomXBitcoin 'Atom X Bitcoin (Private Key Hunting and Crack Hack)') 
 `Crack and Hunting With Mnemonic For Private key wallet Bitcoin`
 
