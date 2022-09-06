@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/Pymmdrza/IP4Attack/mainx/Media/logomask%20XXX.png)
 
-![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-green/?style=plastic&link=https://mmdrza.com) ![](https://komarev.com/ghpvc/?username=MrPyMmdrza&color=blue) ![](https://img.shields.io/badge/Telegram-Channel-orange/?style=plastic&link=https://t.me/CryptoAttacker)
+![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-green/?style=plastic&link=https://mmdrza.com) ![](https://img.shields.io/badge/Telegram-Channel-orange/?style=plastic&link=https://t.me/CryptoAttacker) ![](https://img.shields.io/badge/Telegram-ID%20MrPyMmdrza-red?style=plastic&link=https://t.me/MrPyMmdrza)
 ---
 
 All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
