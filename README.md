@@ -12,6 +12,10 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 
 `Hunting Litecoin LTC From Start Range Private Key HEX`
 
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Mnemonic Detector Node's ](https://github.com/Pymmdrza/MnemonicDetector 'Mnemonic Detector Scrap Mnemonic From All Node Wallet Service') ![](https://img.shields.io/badge/-Update-blue?style=plastic) ![](https://img.shields.io/badge/PRO-Version-red?style=plastic)
+
+`Database Wallet Service's Scrap and Download Fast. [ Mnemonic Table ] `
+
 ### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Red Crypto MAGIC (Hunt and Crack Private Key From Mnemonic Ethereum And Polkadot) ](https://github.com/Pymmdrza/REDCryptoMAGIC 'Red Crypto MAGIC (Hunt and Crack Private Key From Mnemonic Ethereum And Polkadot') 
 
 `Crack and Hunting Private Key Ethereum And Polkadot From Mnemonic`
