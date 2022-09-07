@@ -8,40 +8,52 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 ## Python Source
 
 
-### ✨ [Litecoin Hunting Ranger ](https://github.com/Pymmdrza/LiteHuntRanger 'Hunting Litecoin LTC From Start Range Private Key HEX') 
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Litecoin Hunting Ranger ](https://github.com/Pymmdrza/LiteHuntRanger 'Hunting Litecoin LTC From Start Range Private Key HEX') ![](https://img.shields.io/badge/-Update-blue?style=plastic)
+
 `Hunting Litecoin LTC From Start Range Private Key HEX`
 
-### ✨ [Red Crypto MAGIC (Hunt and Crack Private Key From Mnemonic Ethereum And Polkadot) ](https://github.com/Pymmdrza/REDCryptoMAGIC 'Red Crypto MAGIC (Hunt and Crack Private Key From Mnemonic Ethereum And Polkadot') 
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Red Crypto MAGIC (Hunt and Crack Private Key From Mnemonic Ethereum And Polkadot) ](https://github.com/Pymmdrza/REDCryptoMAGIC 'Red Crypto MAGIC (Hunt and Crack Private Key From Mnemonic Ethereum And Polkadot') 
+
 `Crack and Hunting Private Key Ethereum And Polkadot From Mnemonic`
 
-#### ✨ [Atom X Bitcoin (Private Key Hunting and Crack Hack Free and PRo) ](https://github.com/Pymmdrza/AtomXBitcoin 'Atom X Bitcoin (Private Key Hunting and Crack Hack)') 
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Atom X Bitcoin (Private Key Hunting and Crack Hack Free and PRo) ](https://github.com/Pymmdrza/AtomXBitcoin 'Atom X Bitcoin (Private Key Hunting and Crack Hack)') 
+
 `Crack and Hunting With Mnemonic For Private key wallet Bitcoin`
 
-#### ✨ [EthKeyClear (Ethereum Private Key Crack and Clear) ](https://github.com/Pymmdrza/EthKeyClear 'Ethereum Hack Crack Private Key Private Key Wallet') 
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [EthKeyClear (Ethereum Private Key Crack and Clear) ](https://github.com/Pymmdrza/EthKeyClear 'Ethereum Hack Crack Private Key Private Key Wallet') 
+
 `Ethereum Private Key Crack and Generated Address From Hex and check Rich Data Address [Fast]`
 
-#### ✨ [Bitcoin Crack and Hunting With Mnemonic ~ Pro2WordBTC ](https://github.com/Pymmdrza/Pro2WordBTC 'Bitcoin Crack and Hunting With Mnemonic ~ Pro2WordBTC') 
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Bitcoin Crack and Hunting With Mnemonic ~ Pro2WordBTC ](https://github.com/Pymmdrza/Pro2WordBTC 'Bitcoin Crack and Hunting With Mnemonic ~ Pro2WordBTC') 
+
 `Hunt and Crack Hack Private Key Bitcoin On Cpu Saver Mod with Free Node AtomicWallet`
 
-#### ✨ [Attacker Aio Crypto (All in One) ](https://github.com/Pymmdrza/AttackAIO_Crypto 'Attack and Crack Private Key AIO (ALL in ONE) All Cryptocurency from words') 
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Attacker Aio Crypto (All in One) ](https://github.com/Pymmdrza/AttackAIO_Crypto 'Attack and Crack Private Key AIO (ALL in ONE) All Cryptocurency from words') 
+
 `Attack and Crack Private Key AIO (ALL in ONE) All Cryptocurency from words`
 
-#### ✨ [Bitcoin x Power Hunter](https://github.com/Pymmdrza/BitcoinXPowerHunter 'bitcoin private key crack and hack all address type')
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Bitcoin x Power Hunter](https://github.com/Pymmdrza/BitcoinXPowerHunter 'bitcoin private key crack and hack all address type')
+
 `Bitcoin All Address Type Hunting With High speed checked DataBase`
 
-#### ✨ [xBrain Wallet Crack](https://github.com/Pymmdrza/xBrainWallet 'Brain Wallet passphares and private key crack woth python hack')
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [xBrain Wallet Crack](https://github.com/Pymmdrza/xBrainWallet 'Brain Wallet passphares and private key crack woth python hack')
+
 `Brain Wallet passphares and private key crack with python hack`
 
-#### ✨ [Ethereum Mnemonic Hack](https://github.com/Pymmdrza/EthereumMnemonicCrack 'Ethereum Mnemonic Hack')
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Ethereum Mnemonic Hack](https://github.com/Pymmdrza/EthereumMnemonicCrack 'Ethereum Mnemonic Hack')
+
 `Ethereum Address Wallet Generated With Private Key From Mnemonic and check Value (Balance , transaction) Without API`
 
-#### ✨ [SoloMiner V2](https://github.com/Pymmdrza/SoloMinerV2 'Mining Bitcoin Script Solo')
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [SoloMiner V2](https://github.com/Pymmdrza/SoloMinerV2 'Mining Bitcoin Script Solo')
+
 `New Version Solo Miner with High Speed for mining Bitcoin With all System (Bitcoin Mining , BTC Miner)`
 
-#### ✨ [Multi Crypto Finder Rich Wallet](https://github.com/Pymmdrza/MultiCryptoFinderRich 'Multi Crypto Finder Rich Wallet')
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Multi Crypto Finder Rich Wallet](https://github.com/Pymmdrza/MultiCryptoFinderRich 'Multi Crypto Finder Rich Wallet')
+
 `Multi Batch Private Key Genereted and Check from Database`
 
-#### ✨ [Rich Wallet Private Key Finder Version 2](https://github.com/Pymmdrza/RichWalletPrivateKeyFinder2 'Private Key Finder Ethereum')
+### ![](https://img.shields.io/badge/Repo-New-yellow?style=plastic) [Rich Wallet Private Key Finder Version 2](https://github.com/Pymmdrza/RichWalletPrivateKeyFinder2 'Private Key Finder Ethereum')
+
 `Private Key Finder Etherem From Rich Wallet List V2`
 
 ---
