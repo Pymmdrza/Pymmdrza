@@ -1,8 +1,21 @@
 ![](https://raw.githubusercontent.com/Pymmdrza/IP4Attack/mainx/Media/logomask%20XXX.png)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pymmdrza&show_icons=true&hide=prs,issues,contribs&theme=github_dark)](https://github.com/Pymmdrza)
+
+---
+
 ![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-green/?style=plastic&link=https://mmdrza.com) ![](https://img.shields.io/badge/Telegram-Channel-orange/?style=plastic&link=https://t.me/Cryptoixer) ![](https://img.shields.io/badge/Telegram-ID%20MrPyMmdrza-red?style=plastic&link=https://t.me/MrPyMmdrza)
 ---
 
+## TOP REPO
+
+[![Flashixer V1](https://github-readme-stats.vercel.app/api/pin/?username=Pymmdrza&repo=Flashixer&theme=city_lights)](https://github.com/Pymmdrza/Flashixer) [![SoloMiner V2](https://github-readme-stats.vercel.app/api/pin/?username=Pymmdrza&repo=SoloMinerV2&theme=city_lights)](https://github.com/Pymmdrza/SoloMinerV2)
+[![Transaction Grabber V1](https://github-readme-stats.vercel.app/api/pin/?username=Pymmdrza&repo=TransactionGraber_v1&theme=city_lights)](https://github.com/Pymmdrza/TransactionGraber_v1) [![Multi Crypto Generator V1](https://github-readme-stats.vercel.app/api/pin/?username=Pymmdrza&repo=Multi_Crypto_Generator_-MCG&theme=city_lights)](https://github.com/Pymmdrza/Multi_Crypto_Generator_-MCG)
+[![PRO2WORD](https://github-readme-stats.vercel.app/api/pin/?username=Pymmdrza&repo=Pro2WordBTC&theme=city_lights)](https://github.com/Pymmdrza/Pro2WordBTC) [![Rich Address Wallet List Database](https://github-readme-stats.vercel.app/api/pin/?username=Pymmdrza&repo=Rich-Address-Wallet&theme=city_lights)](https://github.com/Pymmdrza/Rich-Address-Wallet)
+[![Ethereum PrivateKey Address Generator](https://github-readme-stats.vercel.app/api/pin/?username=Pymmdrza&repo=Ethereum_PrivateKey_Address_Generator&theme=city_lights)](https://github.com/Pymmdrza/Ethereum_PrivateKey_Address_Generator) [![Ethereum Mnemonic Crack](https://github-readme-stats.vercel.app/api/pin/?username=Pymmdrza&repo=EthereumMnemonicCrack&theme=city_lights)](https://github.com/Pymmdrza/EthereumMnemonicCrack)
+
+
+---
 All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 
 ## Python Source
