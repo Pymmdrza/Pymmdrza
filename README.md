@@ -1,10 +1,16 @@
-![](https://raw.githubusercontent.com/Pymmdrza/IP4Attack/mainx/Media/logomask%20XXX.png)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pymmdrza&show_icons=true&hide=prs,issues,contribs&theme=github_dark)](https://github.com/Pymmdrza)
+
+<p align="center"><img style="height:50%;" title="MMDRZA (PYMMDRZA)" src="https://raw.githubusercontent.com/Pymmdrza/IP4Attack/mainx/Media/logomask%20XXX.png"></p>
+
+<p align="center"><img title="Discord ID : Pymmdrza#4490" src="https://discord.c99.nl/widget/theme-3/837342206540120065.png"></p>
+
+<p align="center"><img title="github PyMmdrza (MMDRZA.COM)" src="https://github-readme-stats.vercel.app/api?username=Pymmdrza&show_icons=true&hide=prs,issues,contribs&theme=github_dark"></p>
+
 
 ---
 
-![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-green/?style=plastic&link=https://mmdrza.com) ![](https://img.shields.io/badge/Telegram-Channel-orange/?style=plastic&link=https://t.me/Cryptoixer) ![](https://img.shields.io/badge/Telegram-ID%20MrPyMmdrza-red?style=plastic&link=https://t.me/MrPyMmdrza)
+
+![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-green/?style=plastic&link=https://mmdrza.com) ![](https://img.shields.io/badge/Telegram-Channel-orange/?style=plastic&link=https://t.me/Cryptoixer) ![](https://img.shields.io/badge/Telegram-ID%20MrPyMmdrza-red?style=plastic&link=https://t.me/MrPyMmdrza) ![](https://img.shields.io/badge/Discord-Server-blue?logo=discord&logoColor=white&style=plastic&link=https://discord.gg/FQNxnVJM3U)
 ---
 
 ## TOP REPO
