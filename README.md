@@ -1,5 +1,34 @@
+Programming Expertise:
 
+![Haskell](https://img.shields.io/badge/-Haskell-000000?&logo=haskell&logoColor=magenta)
+![C++](https://img.shields.io/badge/-C++-000000?&logo=c&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-000000?&logo=Python&logoColor=yellow)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=shell)
+![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=powershell)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=swift)
+![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
+![Latex](https://img.shields.io/badge/-Latex-000?&logo=latex)
+![Perl](https://img.shields.io/badge/-Perl-000?&logo=perl)
+![HTML](https://img.shields.io/badge/-HTML-000000?&logo=HTML5)
+![css](https://img.shields.io/badge/-CSS-000000?&logo=css3&logoColor=yellow)
+![AssemblyScript](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Rust](https://img.shields.io/badge/-Rust-000000?&logo=Rust)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?&logo=Ruby&logoColor=red)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![D](https://img.shields.io/badge/-D-000?&logo=d)
+![visualbasic](https://img.shields.io/badge/-VisualBasic-000?&logo=visualbasic)
+![Qt](https://img.shields.io/badge/-Qt-000?&logo=qt)
+![coffeescript](https://img.shields.io/badge/-CoffeeScript-000?&logo=coffeescript)
+![PureScript](https://img.shields.io/badge/-PureScript-000?&logo=purescript)
+![Json](https://img.shields.io/badge/-JSON-000?&logo=json)
 
+---
 
 ![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-green?style=plastic&link=https://mmdrza.com) ![](https://img.shields.io/badge/Telegram-Channel-orange?style=plastic&link=https://t.me/Cryptoixer) ![](https://img.shields.io/badge/Telegram-ID%20MrPyMmdrza-blue?style=plastic&link=https://t.me/MrPyMmdrza)
 <img src="https://komarev.com/ghpvc/?username=Pymmdrza&label=Profile%20views&color=00b0f0&style=plastic" alt="Pymmdreza" /> <img alt="Keybase BTC" src="https://img.shields.io/keybase/btc/pymmdrza?style=plastic&color=orange&logo=bitcoin">
