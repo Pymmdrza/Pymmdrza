@@ -36,15 +36,15 @@ Programming Expertise:
 
 ---
 
-![](https://img.shields.io/badge/Python_Package-SECP256k2-70c454?logo=Python&logoColor=bababa&link=https://secp256k2.github.io/secp256k2&style=plastic) ![](https://img.shields.io/badge/pip%20install%20secp256k2-4a4a4a?style=plastic&link=https://pypi.org/project/secp256k2/&logo=windows&logoColor=cacaca) ![](https://img.shields.io/badge/pip3%20install%20secp256k2-grey?style=plastic&logo=linux)
+[![Secp256k2 Python Package](https://img.shields.io/badge/Python_Package-SECP256k2-70c454?logo=Python&logoColor=bababa&style=plastic)](https://secp256k2.readthedocs.io/en/latest/) [![secp256k2](https://img.shields.io/badge/pip%20install%20secp256k2-4a4a4a?style=plastic&logo=windows)](https://pypi.org/project/secp256k2/) [![secp256k2](https://img.shields.io/badge/pip3%20install%20secp256k2-4a4a4a?style=plastic&logo=linux&logoColor=yellow)](https://pypi.org/project/secp256k2/)
 
-![](https://img.shields.io/badge/Python_Package-cryptoFuzz-blue?logo=Python&logoColor=bababa&link=https://pymmdrza.github.io/cryptoFuzz&style=plastic) ![](https://img.shields.io/badge/pip%20install%20cryptofuzz-4a4a4a?style=plastic&link=https://pypi.org/project/cryptofuzz/&logo=windows&logoColor=cacaca) ![](https://img.shields.io/badge/pip3%20install%20cryptofuzz-grey?style=plastic&logo=linux)
-
-
-![](https://img.shields.io/badge/Python_Package-blockthon-70c454?logo=Python&logoColor=bababa&link=https://blockthon.github.io/Blockthon&style=plastic) ![](https://img.shields.io/badge/pip%20install%20blockthon-4a4a4a?style=plastic&link=https://pypi.org/project/blockthon/&logo=windows&logoColor=cacaca) ![](https://img.shields.io/badge/pip3%20install%20blockthon-grey?style=plastic&logo=linux)
+[![CryptoFuzz](https://img.shields.io/badge/Python_Package-cryptoFuzz-blue?logo=Python&logoColor=bababa&link=https://pymmdrza.github.io/cryptoFuzz&style=plastic)](https://cryptofuzz.readthedocs.io/en/latest/ 'CryptoFuzz') [![CryptoFuzz](https://img.shields.io/badge/pip%20install%20cryptofuzz-4a4a4a?style=plastic&logo=windows)](https://pypi.org/project/cryptofuzz) [![CryptoFuzz](https://img.shields.io/badge/pip3%20install%20cryptofuzz-grey?style=plastic&logo=linux)](https://cryptofuzz.readthedocs.io/en/latest/ 'CryptoFuzz')
 
 
-![](https://img.shields.io/badge/Python_Package-colorthon-blue?logo=Python&logoColor=bababa&link=https://colorthon.github.io/colorthon&style=plastic) ![](https://img.shields.io/badge/pip%20install%20colorthon-4a4a4a?style=plastic&link=https://pypi.org/project/colorthon/&logo=windows&logoColor=cacaca) ![](https://img.shields.io/badge/pip3%20install%20colorthon-grey?style=plastic&logo=linux)
+[![blockthon](https://img.shields.io/badge/Python_Package-blockthon-70c454?logo=Python&logoColor=bababa&style=plastic)](https://blockthon.github.io/Blockthon 'Blockthon Python Package') [![blockthon](https://img.shields.io/badge/pip%20install%20blockthon-4a4a4a?style=plastic&logo=windows)](https://pypi.org/project/blockthon) [![blockthon](https://img.shields.io/badge/pip3%20install%20blockthon-grey?style=plastic&logo=linux)](https://pypi.org/project/blockthon)
+
+
+[![colorthon](https://img.shields.io/badge/Python_Package-colorthon-blue?logo=Python&logoColor=bababa&style=plastic)](https://colorthon.github.io/colorthon) [![colorthon](https://img.shields.io/badge/pip%20install%20colorthon-4a4a4a?style=plastic&link=https://pypi.org/project/colorthon/&logo=windows)](https://colorthon.github.io/colorthon) [![colorthon](https://img.shields.io/badge/pip3%20install%20colorthon-grey?style=plastic&logo=linux)](https://colorthon.github.io/colorthon)
 
 ---
 
