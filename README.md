@@ -125,9 +125,9 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 #### Installation Prerequisite
 
 
-- Microsoft Build Tools 2019 : [![Download](https://img.shields.io/badge/Microsoft-Build-Tools_Download-blue?logo=Download&logo&style=plastic)](https://colorthon.github.io/colorthon)
--
-- [(Download)](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019)
+- Microsoft Build Tools 2019 : [![Chocolatey Downloads](https://img.shields.io/chocolatey/dt/microsoft-build-tools)](https://visualstudio.microsoft.com/downloads/?q=build+tools#build-tools-for-visual-studio-2022)
+
+- Python [Latest] : [![Chocolatey Downloads](https://img.shields.io/chocolatey/dt/python)](https://python.org)
 
 ---
 
