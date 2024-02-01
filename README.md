@@ -1,50 +1,50 @@
 Programming Expertise:
 
-![Haskell](https://img.shields.io/badge/-Haskell-000000?&logo=haskell&logoColor=magenta)
-![C++](https://img.shields.io/badge/-C++-000000?&logo=c&logoColor=blue)
-![Python](https://img.shields.io/badge/-Python-000000?&logo=Python&logoColor=yellow)
-![Shell](https://img.shields.io/badge/-Shell-000?&logo=shell)
-![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=powershell)
-![R](https://img.shields.io/badge/-R-000?&logo=R)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=swift)
-![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
-![Latex](https://img.shields.io/badge/-Latex-000?&logo=latex)
-![Perl](https://img.shields.io/badge/-Perl-000?&logo=perl)
-![HTML](https://img.shields.io/badge/-HTML-000000?&logo=HTML5)
-![css](https://img.shields.io/badge/-CSS-000000?&logo=css3&logoColor=yellow)
-![AssemblyScript](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Rust](https://img.shields.io/badge/-Rust-000000?&logo=Rust)
-![Ruby](https://img.shields.io/badge/-Ruby-000000?&logo=Ruby&logoColor=red)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![D](https://img.shields.io/badge/-D-000?&logo=d)
-![visualbasic](https://img.shields.io/badge/-VisualBasic-000?&logo=visualbasic)
-![Qt](https://img.shields.io/badge/-Qt-000?&logo=qt)
-![coffeescript](https://img.shields.io/badge/-CoffeeScript-000?&logo=coffeescript)
-![PureScript](https://img.shields.io/badge/-PureScript-000?&logo=purescript)
-![Json](https://img.shields.io/badge/-JSON-000?&logo=json)
+[![Haskell](https://img.shields.io/badge/-Haskell-000000?&logo=haskell&logoColor=magenta)](https://github.com/Pymmdrza)
+[![C++](https://img.shields.io/badge/-C++-000000?&logo=c&logoColor=blue)](https://github.com/Pymmdrza)
+[![Python](https://img.shields.io/badge/-Python-000000?&logo=Python&logoColor=yellow)](https://github.com/Pymmdrza)
+[![Shell](https://img.shields.io/badge/-Shell-000?&logo=shell)](https://github.com/Pymmdrza)
+[![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=powershell)](https://github.com/Pymmdrza)
+[![R](https://img.shields.io/badge/-R-000?&logo=R)](https://github.com/Pymmdrza)
+[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)](https://github.com/Pymmdrza)
+[![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)](https://github.com/Pymmdrza)
+[![Swift](https://img.shields.io/badge/-Swift-000?&logo=swift)](https://github.com/Pymmdrza)
+[![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)](https://github.com/Pymmdrza)
+[![Latex](https://img.shields.io/badge/-Latex-000?&logo=latex)](https://github.com/Pymmdrza)
+[![Perl](https://img.shields.io/badge/-Perl-000?&logo=perl)](https://github.com/Pymmdrza)
+[![HTML](https://img.shields.io/badge/-HTML-000000?&logo=HTML5)](https://github.com/Pymmdrza)
+[![css](https://img.shields.io/badge/-CSS-000000?&logo=css3&logoColor=yellow)](https://github.com/Pymmdrza)
+[![AssemblyScript](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)](https://github.com/Pymmdrza)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://github.com/Pymmdrza)
+[![Rust](https://img.shields.io/badge/-Rust-000000?&logo=Rust)](https://github.com/Pymmdrza)
+[![Ruby](https://img.shields.io/badge/-Ruby-000000?&logo=Ruby&logoColor=red)](https://github.com/Pymmdrza)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)](https://github.com/Pymmdrza)
+[![Go](https://img.shields.io/badge/-Go-000?&logo=Go)](https://github.com/Pymmdrza)
+[![React](https://img.shields.io/badge/-React-000?&logo=react)](https://github.com/Pymmdrza)
+[![D](https://img.shields.io/badge/-D-000?&logo=d)](https://github.com/Pymmdrza)
+[![visualbasic](https://img.shields.io/badge/-VisualBasic-000?&logo=visualbasic)](https://github.com/Pymmdrza)
+[![Qt](https://img.shields.io/badge/-Qt-000?&logo=qt)](https://github.com/Pymmdrza)
+[![coffeescript](https://img.shields.io/badge/-CoffeeScript-000?&logo=coffeescript)](https://github.com/Pymmdrza)
+[![PureScript](https://img.shields.io/badge/-PureScript-000?&logo=purescript)](https://github.com/Pymmdrza)
+[![Json](https://img.shields.io/badge/-JSON-000?&logo=json)](https://github.com/Pymmdrza)
 
 ---
 
-![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-green?style=plastic&link=https://mmdrza.com) ![](https://img.shields.io/badge/Telegram-Channel-orange?style=plastic&link=https://t.me/Cryptoixer) ![](https://img.shields.io/badge/Telegram-ID%20MrPyMmdrza-blue?style=plastic&link=https://t.me/MrPyMmdrza)
-<img src="https://komarev.com/ghpvc/?username=Pymmdrza&label=Profile%20views&color=00b0f0&style=plastic" alt="Pymmdreza" /> <img alt="Keybase BTC" src="https://img.shields.io/keybase/btc/pymmdrza?style=plastic&color=orange&logo=bitcoin">
+[![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-eb951b?style=plastic)](https://mmdrza.com) [![](https://img.shields.io/badge/Telegram-Channel-blue?style=plastic&logo=Telegram)](https://t.me/Cryptoixer) [![](https://img.shields.io/badge/Telegram-ID%20MrPyMmdrza-blue?style=plastic&logo=Telegram)](https://t.me/MrPyMmdrza)
+[![](https://komarev.com/ghpvc/?username=Pymmdrza&label=Profile%20views&color=E84D3D&style=plastic)](https://github.com/Pymmdrza)
 
 
 ---
 
-[![Secp256k2 Python Package](https://img.shields.io/badge/Python_Package-SECP256k2-70c454?logo=Python&logoColor=bababa&style=plastic)](https://secp256k2.readthedocs.io/en/latest/) [![secp256k2](https://img.shields.io/badge/pip%20install%20secp256k2-4a4a4a?style=plastic&logo=windows)](https://pypi.org/project/secp256k2/) [![secp256k2](https://img.shields.io/badge/pip3%20install%20secp256k2-4a4a4a?style=plastic&logo=linux&logoColor=yellow)](https://pypi.org/project/secp256k2/)
+[![Secp256k2 Python Package](https://img.shields.io/badge/Python_Package-SECP256k2-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://secp256k2.readthedocs.io/en/latest/) [![secp256k2](https://img.shields.io/badge/pip%20install%20secp256k2-4a4a4a?style=plastic&logo=windows)](https://pypi.org/project/secp256k2/) [![secp256k2](https://img.shields.io/badge/pip3%20install%20secp256k2-4a4a4a?style=plastic&logo=linux&logoColor=yellow)](https://pypi.org/project/secp256k2/)
 
-[![CryptoFuzz](https://img.shields.io/badge/Python_Package-cryptoFuzz-blue?logo=Python&logoColor=bababa&link=https://pymmdrza.github.io/cryptoFuzz&style=plastic)](https://cryptofuzz.readthedocs.io/en/latest/ 'CryptoFuzz') [![CryptoFuzz](https://img.shields.io/badge/pip%20install%20cryptofuzz-4a4a4a?style=plastic&logo=windows)](https://pypi.org/project/cryptofuzz) [![CryptoFuzz](https://img.shields.io/badge/pip3%20install%20cryptofuzz-grey?style=plastic&logo=linux)](https://cryptofuzz.readthedocs.io/en/latest/ 'CryptoFuzz')
-
-
-[![blockthon](https://img.shields.io/badge/Python_Package-blockthon-70c454?logo=Python&logoColor=bababa&style=plastic)](https://blockthon.github.io/Blockthon 'Blockthon Python Package') [![blockthon](https://img.shields.io/badge/pip%20install%20blockthon-4a4a4a?style=plastic&logo=windows)](https://pypi.org/project/blockthon) [![blockthon](https://img.shields.io/badge/pip3%20install%20blockthon-grey?style=plastic&logo=linux)](https://pypi.org/project/blockthon)
+[![CryptoFuzz](https://img.shields.io/badge/Python_Package-cryptoFuzz-5bb656?logo=Python&logoColor=bababa&link=https://pymmdrza.github.io/cryptoFuzz&style=plastic)](https://cryptofuzz.readthedocs.io/en/latest/ 'CryptoFuzz') [![CryptoFuzz](https://img.shields.io/badge/pip%20install%20cryptofuzz-4a4a4a?style=plastic&logo=windows)](https://pypi.org/project/cryptofuzz) [![CryptoFuzz](https://img.shields.io/badge/pip3%20install%20cryptofuzz-grey?style=plastic&logo=linux)](https://cryptofuzz.readthedocs.io/en/latest/ 'CryptoFuzz')
 
 
-[![colorthon](https://img.shields.io/badge/Python_Package-colorthon-blue?logo=Python&logoColor=bababa&style=plastic)](https://colorthon.github.io/colorthon) [![colorthon](https://img.shields.io/badge/pip%20install%20colorthon-4a4a4a?style=plastic&link=https://pypi.org/project/colorthon/&logo=windows)](https://colorthon.github.io/colorthon) [![colorthon](https://img.shields.io/badge/pip3%20install%20colorthon-grey?style=plastic&logo=linux)](https://colorthon.github.io/colorthon)
+[![blockthon](https://img.shields.io/badge/Python_Package-blockthon-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://blockthon.github.io/Blockthon 'Blockthon Python Package') [![blockthon](https://img.shields.io/badge/pip%20install%20blockthon-4a4a4a?style=plastic&logo=windows)](https://pypi.org/project/blockthon) [![blockthon](https://img.shields.io/badge/pip3%20install%20blockthon-grey?style=plastic&logo=linux)](https://pypi.org/project/blockthon)
+
+
+[![colorthon](https://img.shields.io/badge/Python_Package-colorthon-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://colorthon.github.io/colorthon) [![colorthon](https://img.shields.io/badge/pip%20install%20colorthon-4a4a4a?style=plastic&link=https://pypi.org/project/colorthon/&logo=windows)](https://colorthon.github.io/colorthon) [![colorthon](https://img.shields.io/badge/pip3%20install%20colorthon-grey?style=plastic&logo=linux)](https://colorthon.github.io/colorthon)
 
 ---
 
@@ -122,12 +122,15 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 
 ---
 
+#### Installation Prerequisite
 
 
-↪️ [Blockthon](https://github.com/Blockthon/Blockthon) Python Package : `pip install Blockthon` .
+- Microsoft Build Tools 2019 : [![Download](https://img.shields.io/badge/Microsoft-Build-Tools_Download-blue?logo=Download&logo&style=plastic)](https://colorthon.github.io/colorthon)
+-
+- [(Download)](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019)
 
-↪️ Package Hexer [(Download)](https://github.com/Pymmdrza/HEXER/blob/main/mHash/hexer.py)
+---
 
-↪️ Microsoft Build Tools 2019 [(Download)](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019)
+ [![](https://img.shields.io/keybase/btc/pymmdrza?style=plastic&color=orange&logo=bitcoin)]()
 
 
