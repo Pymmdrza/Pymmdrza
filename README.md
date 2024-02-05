@@ -30,7 +30,7 @@ Programming Expertise:
 
 ---
 
-[![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-eb951b?style=plastic)](https://mmdrza.com) [![](https://img.shields.io/badge/Telegram-Channel-blue?style=plastic&logo=Telegram)](https://t.me/Cryptoixer) [![](https://img.shields.io/badge/Telegram-ID%20MrPyMmdrza-blue?style=plastic&logo=Telegram)](https://t.me/MrPyMmdrza)
+[![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-eb951b?style=plastic)](https://mmdrza.com) [![](https://img.shields.io/badge/Telegram-Channel-blue?style=plastic&logo=Telegram)](https://t.me/Cryptoixer) [![](https://img.shields.io/badge/Telegram_ID-%20Mr1Mmdrza-blue?style=plastic&logo=Telegram)](https://t.me/Mr1Mmdrza)
 [![](https://komarev.com/ghpvc/?username=Pymmdrza&label=Profile%20views&color=E84D3D&style=plastic)](https://github.com/Pymmdrza)
 
 
