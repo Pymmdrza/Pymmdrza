@@ -1,3 +1,8 @@
+[![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-eb951b?style=plastic)](https://mmdrza.com) [![](https://img.shields.io/badge/Telegram-Channel-blue?style=plastic&logo=Telegram)](https://t.me/Cryptoixer) [![](https://img.shields.io/badge/Telegram_ID-%20Mr1Mmdrza-blue?style=plastic&logo=Telegram)](https://t.me/Mr1Mmdrza)
+[![](https://komarev.com/ghpvc/?username=Pymmdrza&label=Profile%20views&color=E84D3D&style=plastic)](https://github.com/Pymmdrza)
+
+![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png)
+
 Programming Expertise:
 
 [![Haskell](https://img.shields.io/badge/-Haskell-000000?&logo=haskell&logoColor=magenta)](https://github.com/Pymmdrza)
@@ -28,13 +33,7 @@ Programming Expertise:
 [![PureScript](https://img.shields.io/badge/-PureScript-000?&logo=purescript)](https://github.com/Pymmdrza)
 [![Json](https://img.shields.io/badge/-JSON-000?&logo=json)](https://github.com/Pymmdrza)
 
----
-
-[![](https://img.shields.io/badge/%20Web%20Site-Mmdrza.Com-eb951b?style=plastic)](https://mmdrza.com) [![](https://img.shields.io/badge/Telegram-Channel-blue?style=plastic&logo=Telegram)](https://t.me/Cryptoixer) [![](https://img.shields.io/badge/Telegram_ID-%20Mr1Mmdrza-blue?style=plastic&logo=Telegram)](https://t.me/Mr1Mmdrza)
-[![](https://komarev.com/ghpvc/?username=Pymmdrza&label=Profile%20views&color=E84D3D&style=plastic)](https://github.com/Pymmdrza)
-
-
----
+![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png)
 
 [![Secp256k2 Python Package](https://img.shields.io/badge/Python_Package-SECP256k2-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://secp256k2.readthedocs.io/en/latest/) [![secp256k2](https://img.shields.io/badge/pip%20install%20secp256k2-4a4a4a?style=plastic&logo=windows)](https://pypi.org/project/secp256k2/) [![secp256k2](https://img.shields.io/badge/pip3%20install%20secp256k2-4a4a4a?style=plastic&logo=linux&logoColor=yellow)](https://pypi.org/project/secp256k2/)
 
@@ -46,7 +45,7 @@ Programming Expertise:
 
 [![colorthon](https://img.shields.io/badge/Python_Package-colorthon-5bb656?logo=Python&logoColor=bababa&style=plastic)](https://colorthon.github.io/colorthon) [![colorthon](https://img.shields.io/badge/pip%20install%20colorthon-4a4a4a?style=plastic&link=https://pypi.org/project/colorthon/&logo=windows)](https://colorthon.github.io/colorthon) [![colorthon](https://img.shields.io/badge/pip3%20install%20colorthon-grey?style=plastic&logo=linux)](https://colorthon.github.io/colorthon)
 
----
+![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png)
 
 
 All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
@@ -120,16 +119,34 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
 
 `Private Key Finder Etherem From Rich Wallet List V2`
 
----
+![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png)
 
-#### Installation Prerequisite
+<!-- Start Widget -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=95309780" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=95309780&image_size=auto&color_scheme=dark" width="815" height="auto">
+    <img alt="Dashboard stats of @Pymmdrza" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=95309780&image_size=auto&color_scheme=light" width="815" height="auto">
+  </picture>
+</a>
 
 
-- Microsoft Build Tools 2019 : [![Chocolatey Downloads](https://img.shields.io/chocolatey/dt/microsoft-build-tools)](https://visualstudio.microsoft.com/downloads/?q=build+tools#build-tools-for-visual-studio-2022)
 
-- Python [Latest] : [![Chocolatey Downloads](https://img.shields.io/chocolatey/dt/python)](https://python.org)
+<!-- Copy-paste in your Readme.md file -->
 
----
+<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=476343392" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=476343392&image_size=auto&color_scheme=dark" width="815" height="auto">
+    <img alt="Activity Trends of Pymmdrza/Rich-Address-Wallet - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=476343392&image_size=auto&color_scheme=light" width="815" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+
+<!-- End Widget's -->
+
+![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png)
 
  [![](https://img.shields.io/keybase/btc/pymmdrza?style=plastic&color=orange&logo=bitcoin)]()
 
