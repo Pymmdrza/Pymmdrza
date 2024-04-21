@@ -1,11 +1,9 @@
 ▶️ [Website](https://mmdrza.com)
 
-▶️ [Telegram Channel](https://t.me/mpython3)
+▶️ [Telegram Channel](https://t.me/cryptoixer)
 
-▶️ [Telegram ID](https://t.me/pyMmdrza)
+▶️ [Telegram ID](https://t.me/Mr1Mmdrza)
 
-▶️ [Github Page](https://pymmdrza.github.io)
+▶️ [Github Page](https://github.com/Pymmdrza)
 
-▶️ [Dev Page](https://dev.to/mmdrza)
-
-▶️ [Email](mailto:x4@mmdrza.com)
+▶️ [Email](mailto:Pymmdrza@gmail.com)
