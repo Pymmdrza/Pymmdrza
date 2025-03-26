@@ -133,7 +133,7 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=95309780&image_size=auto&color_scheme=dark" width="815" height="auto">
     <img alt="Dashboard stats of @Pymmdrza" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=95309780&image_size=auto&color_scheme=light" width="815" height="auto">
   </picture>
-</a>
+
 
 
 
@@ -144,7 +144,7 @@ All Repositories [Link](https://github.com/Pymmdrza?tab=repositories)
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=476343392&image_size=auto&color_scheme=dark" width="815" height="auto">
     <img alt="Activity Trends of Pymmdrza/Rich-Address-Wallet - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=476343392&image_size=auto&color_scheme=light" width="815" height="auto">
   </picture>
-</a>
+
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
