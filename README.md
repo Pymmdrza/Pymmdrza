@@ -2,6 +2,11 @@
 
 ![](https://raw.githubusercontent.com/Pymmdrza/Pymmdrza/data/img/rainbow.png)
 
+[![libcrypto](https://img.shields.io/badge/Python_Package-libcrypto-5bb656?logo=Python&logoColor=bababa&link=https://libcrypto.readthedocs.io/&style=plastic)](https://libcrypto.readthedocs.io/ 'libcrypto') [![libcrypto](https://img.shields.io/badge/pip%20install%20libcrypto-4a4a4a?style=plastic&logo=pypi&logoColor=FF9E0F)](https://pypi.org/project/libcrypto) [![libcrypto](https://img.shields.io/badge/pip3%20install%20libcrypto-grey?style=plastic&logo=linux)](https://libcrypto.readthedocs.io/ 'libcrypto')
+
+
+[![libfake](https://img.shields.io/badge/Python_Package-libfake-5bb656?logo=Python&logoColor=bababa&link=https://libfake.readthedocs.io/&style=plastic)](https://libfake.readthedocs.io/ 'libfake') [![libfake](https://img.shields.io/badge/pip%20install%20libfake-4a4a4a?style=plastic&logo=pypi&logoColor=FF9E0F)](https://pypi.org/project/libfake) [![libfake](https://img.shields.io/badge/pip3%20install%20libfake-grey?style=plastic&logo=linux)](https://libfake.readthedocs.io/ 'libfake')
+
 
 [![libit](https://img.shields.io/badge/Python_Package-libit-5bb656?logo=Python&logoColor=bababa&link=https://pylibit.github.io/&style=plastic)](https://pylibit.github.io/ 'liBit') [![libit](https://img.shields.io/badge/pip%20install%20libit-4a4a4a?style=plastic&logo=pypi&logoColor=FF9E0F)](https://pypi.org/project/libit) [![xTerm](https://img.shields.io/badge/pip3%20install%20libit-grey?style=plastic&logo=linux)](https://pylibit.github.io/ 'liBit')
 
